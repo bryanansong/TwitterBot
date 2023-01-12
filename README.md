@@ -24,4 +24,6 @@ This Twitter Bot is a simple yet powerful tool that can help you keep your follo
 
 If you want to contribute to this project, you are welcome to fork this repository and make a pull request.
 
+Thank you @D3vd for the meme-api.
+
 Thank you for considering the Twitter Bot!
